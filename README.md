@@ -21,3 +21,8 @@ https://developer.apple.com/documentation/swiftui/
 
 https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project
 
+
+<h2>RW Second iOS and SwiftUI - Lists </h2>
+
+
+https://github.com/raywenderlich/video-yssa-materials
