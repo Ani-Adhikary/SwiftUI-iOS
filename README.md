@@ -21,6 +21,8 @@ https://developer.apple.com/documentation/swiftui/
 
 https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project
 
+https://www.hackingwithswift.com/books/ios-swiftui/introducing-list-your-best-friend
+
 
 <h2>RW Second iOS and SwiftUI - Lists </h2>
 
